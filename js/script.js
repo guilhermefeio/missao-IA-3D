@@ -16,6 +16,15 @@ let historiaFinal = "";
 
 botaoIniciar.addEventListener('click',iniciaJogo);
 
+function iniciaJogo(){
+    atual = 0;
+    historiafinal = "";
+    telainicial.style.dispaly = 'none';
+    caixadePerguntas.classList.remove(".mostrar");
+    caixaAlternativas.classlist.remove(".mostrar");
+    caixaResultados.classList.remove(".mostrar");
+    mostraPergunta();
+}
 function mostraPergunta() {
     if(atual >= perguntas.length){
         mostraResultado();
