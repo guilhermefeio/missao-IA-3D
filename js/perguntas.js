@@ -7,14 +7,16 @@ export const perguntas = [
                 afirmacao: [
                     "São perpetuadas por instituições, políticas e normas sociais.",
                     "afirmacao 2"
-                    ]
+                    ],
+                    proxima: 1,
             },
             {
                 texto: "Discriminação individual",
                 afirmacao: [
                     "Apenas a discriminações individual e direta afeta a sociedade",
                     "afirmacao 2"
-                    ]
+                    ],
+                    proxima: 1,
             }           
             
         ]
