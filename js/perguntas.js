@@ -5,8 +5,8 @@ export const perguntas = [
             {
                 texto: "Desigualdades raciais",
                 afirmacao: [
-                    "São perpetuadas por instituições, políticas e normas sociais."
-                    
+                    "São perpetuadas por instituições, políticas e normas sociais.(correto)",
+                    "Não se trata pelas estruturas sociais e políticas, associadas à cor da pele.(errado)"
                     ],
                     proxima: 1,
             },
@@ -14,7 +14,7 @@ export const perguntas = [
                 texto: "Discriminação individual",
                 afirmacao: [
                     "Apenas a discriminações individual e direta afeta a sociedade"
-                    
+                    ""
                     ],
                     proxima: 1,
             }           
