@@ -13,7 +13,7 @@ export const perguntas = [
             {
                 texto: "Discriminação individual",
                 afirmacao: [
-                    "Apenas a discriminações individual e direta afeta a sociedade"
+                    "Apenas a discriminações individual e direta afeta a sociedade",
                     ""
                     ],
                     proxima: 1,
@@ -33,7 +33,7 @@ export const perguntas = [
                     proxima: 1,
             },
             {
-                texto: "contribui para a exclusão social e marginalização de grupos minoritarios "
+                texto: "contribui para a exclusão social e marginalização de grupos minoritarios ",
                 afirmacao: [
                     "reforça a desigualdade e estereótipos discriminatórios",
                     
