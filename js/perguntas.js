@@ -1,17 +1,17 @@
 export const perguntas = [
     {
-        enunciado: "O que caracteriza o racismo estrutural na sociedade?",
+        enunciado: "o que é o racismo?",
         alternativas: [
             {
                 texto: "Desigualdades raciais",
                 afirmacao: [
-                    "São perpetuadas por instituições, políticas e normas sociais.(correto)",
-                    "Não se trata pelas estruturas sociais e políticas, associadas à cor da pele.(errado)"
+                    "Um sistema de opressão baseado em raça",
+                    "Apenas ofensas verbais e preconceito."
                     ],
                     proxima: 1,
             },
             {
-                texto: "Discriminação individual",
+                texto: "",
                 afirmacao: [
                     "Apenas a discriminações individual e direta afeta a sociedade",
                     ""
