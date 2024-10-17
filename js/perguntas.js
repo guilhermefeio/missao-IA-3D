@@ -1,19 +1,19 @@
 export const perguntas = [
     {
-        enunciado: "o que é o racismo?",
+        enunciado: "Qual é o principal objetivo do Goku na série",
         alternativas: [
             {
                 texto: "Desigualdades raciais",
                 afirmacao: [
-                    "Um sistema de opressão baseado em raça",
-                    "Apenas ofensas verbais e preconceito."
+                    "Se tornar o guerreiro mais forte",
+                    "Correto"
                     ],
                     proxima: 1,
             },
             {
                 texto: "",
                 afirmacao: [
-                    "Apenas a discriminações individual e direta afeta a sociedade",
+                    "Proteger a Terra e seus amigos",
                     ""
                     ],
                     proxima: 1,
@@ -22,12 +22,13 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "principal dano causado pelo racismo",
+                    
+        enunciado: "Qual é a transformação mais forte de Goku?",
         alternativas: [
             {
                 texto:"fortalece a autoestima das vitimas",
                 afirmacao: [
-                    "racismo enfraquece a autoestima, perpetuando sentimentos de inferioridade"
+                    "Super Saiyajin."
                     
                     ],
                     proxima: 1,
@@ -35,7 +36,7 @@ export const perguntas = [
             {
                 texto: "contribui para a exclusão social e marginalização de grupos minoritarios ",
                 afirmacao: [
-                    "reforça a desigualdade e estereótipos discriminatórios",
+                    "reforça a desigualdade e estereótipos disc",
                     
                     ],
                     proxima: 1,
